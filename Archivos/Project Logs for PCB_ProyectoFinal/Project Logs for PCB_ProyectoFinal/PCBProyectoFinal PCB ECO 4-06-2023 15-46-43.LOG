@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=IO4 Pin=J2-13
+Added Component: Designator=LS1(FP-PKB24SPCH3601-B0-MFG)
+Add component (AddParameter): Name = "Diameter"; Value = "24.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "3.6kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "24.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "4.1kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "16mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage (DC)"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Flush"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "16mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "16mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "3.6kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=LS1-1
+Added Pin To Net: NetName=IO4 Pin=LS1-2
+Added Member To Class: ClassName=ESP32 Member=Component LS1 PKB24SPCH3601-B0

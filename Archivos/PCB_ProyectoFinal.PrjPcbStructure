@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ESP32.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=ESP32.SchDoc|Designator=Regulación|SchDesignator=Regulación|FileName=REGULACION.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=REGULACION.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ESP32.SchDoc|Designator=USB-C|SchDesignator=USB-C|FileName=USB_C.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USB_C.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

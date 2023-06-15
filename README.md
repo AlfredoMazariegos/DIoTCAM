@@ -15,7 +15,7 @@ DIoTCAM funciona por medio de un microcontrolador ESP32 con conectividad WiFi y 
 
 ## ¿Qué podemos hacer?
 
-Desplegar la información de los sensores en un dashboard MQTT a través de conexión WiFi, para visualizar las mediciones de temperatura, humedad y presión atmosférica en el ambiente en que se encuentra nuestra mascota gracias al sensor BME280. También puede acoplarse un sensor PIR y un servomotor para construir un dispositivo que sea también capaz de alimentar a nuestra mascota incluso controlado desde el dashboard MQTT.
+Desplegar la información de los sensores en un dashboard MQTT a través de conexión WiFi, para visualizar las mediciones de temperatura, humedad y presión atmosférica en el ambiente en que se encuentra nuestra mascota gracias al sensor BME280. También puede acoplarse un sensor PIR y un servomotor para construir un dispositivo que sea también capaz de alimentar a nuestra mascota controlado desde el dashboard MQTT.
 
 ## Descripción de los pines
 ### BME 280: Temperatura, humedad y presión atmosférica - Comunicación I2C 0x77

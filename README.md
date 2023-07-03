@@ -52,3 +52,6 @@ Desplegar la información de los sensores en un dashboard MQTT a través de cone
 | GND | Ground |
 | Señal | IO14 |
 
+## Licencia
+
+<image src="/img/oshw_facts.jpg">

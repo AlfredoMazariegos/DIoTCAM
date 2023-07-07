@@ -1,6 +1,6 @@
 # **DIoTCAM**
 
-Es un proyecto para realizar un dispositivo IoT para la alimentación de mascotas, además de poder llevar un control de la temperatura, presión atmosférica y humedad en el ambiente en que esta se encuentre.
+Es un proyecto para realizar un dispositivo IoT para la alimentación de mascotas por via remota, además de poder llevar un control de la temperatura y humedad en el ambiente en que esta se encuentre.
 
 El dispositivo posee los siguientes componentes:
 
@@ -8,14 +8,15 @@ El dispositivo posee los siguientes componentes:
 - Buzzer
 - Sensor BME280
 - 5 Neopixeles
+- Conexión para integrar un servomotor y un sensor infrarrojo.
 
 ## ¿Cómo funciona?
 
-DIoTCAM funciona por medio de un microcontrolador ESP32 con conectividad WiFi y Bluetooth, que puede ser programado en diferentes lenguajes de programación como Arduino, para controlar los distintos sensores integrados y acoplados.
+DIoTCAM funciona por medio de un microcontrolador ESP32 con conectividad WiFi y Bluetooth, que puede ser programado en diferentes lenguajes de programación como Arduino, para controlar los distintos sensores integrados y acoplados de forma remota.
 
 ## ¿Qué podemos hacer?
 
-Desplegar la información de los sensores en un dashboard MQTT a través de conexión WiFi, para visualizar las mediciones de temperatura, humedad y presión atmosférica en el ambiente en que se encuentra nuestra mascota gracias al sensor BME280. También puede acoplarse un sensor PIR y un servomotor para construir un dispositivo que sea también capaz de alimentar a nuestra mascota controlado desde el dashboard MQTT.
+Desplegar la información del sensor en un dashboard MQTT a través de conexión WiFi, para visualizar las mediciones de temperatura y humedad en el ambiente en que se encuentra nuestra mascota. También puede acoplarse un sensor PIR y un servomotor para construir un dispositivo que sea también capaz de alimentar a nuestra mascota controlado por medio de un bot de Telegram como forma de activación remota.
 
 ## Descripción de los pines
 ### BME 280: Temperatura, humedad y presión atmosférica - Comunicación I2C 0x77

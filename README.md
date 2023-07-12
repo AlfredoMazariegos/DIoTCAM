@@ -57,5 +57,8 @@ Desplegar la información del sensor en un dashboard MQTT a través de conexión
 
 <image src="/img/oshw_facts.jpg">
 
-Diseñado, Ensamblado y Programado por Alfredo José Mazariegos
+Diseñado, Ensamblado y Programado por Alfredo José Miguel Mazariegos López
+
+Proyecto Final del curso Diseño y Construcción de Dispositivos Electrónicos
+
 Guatemala 2023
